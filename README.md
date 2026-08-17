@@ -1,8 +1,12 @@
 # AI-Powered Production House Management System for Workflow Automation
 
 ## Team Details
-- Name: Nikhil
-- Team ID / Roll Number: 242420030561
+- Name: K. Jayathi Nikhil
+- Team ID / Roll Number: 2420030561
+- Name: G. Teja Swaroop
+- Team ID / Roll Number: 2420030347
+- Name: Y. Lithesh Kumar
+- Team ID / Roll Number: 2420030501
 
 ## Subject
 Adaptive Software Engineering (ASE)
